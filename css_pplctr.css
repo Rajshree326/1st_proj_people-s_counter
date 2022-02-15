@@ -1,0 +1,46 @@
+.back-img{
+    position: absolute;
+    opacity: 0.4;
+    height: 100%;
+    width: 100%;
+}
+.base{
+    overflow: hidden;
+    position: relative;
+}
+
+.app{
+    position: relative;
+    display: grid;
+}
+#incre{
+    font-size: large;
+    background-color: darkred;
+    color: white;
+}
+#btn-2{
+    font-size: large;
+    background-color: blue;
+    color: white;
+}
+.h1{
+    font-size: 20px;
+    background-color: azure;
+    text-align: center;
+}
+.h2{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.btns{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.info{
+    background-color: rgba(247, 183, 114,0.4);
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+}
